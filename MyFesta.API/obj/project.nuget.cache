@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ubWemNra6W0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yuri\\Documents\\Coding\\ProjetosCs\\MyFesta\\MyFesta.API\\MyFesta.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "C:\\Users\\Yuri\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
