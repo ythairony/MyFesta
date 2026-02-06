@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyFesta.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed07faa4cb3fa28d3b08df047192fdb796ff8b0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5bbecb06225237c37bad988dd34ef078a6e0923c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyFesta.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyFesta.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
