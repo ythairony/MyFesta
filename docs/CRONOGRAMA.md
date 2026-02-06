@@ -4,13 +4,13 @@ Este cronograma divide o desenvolvimento do projeto em 6 etapas lógicas, focand
 
 ---
 
-## 🏗️ Fase 1: Fundação e Setup (Semana 1) 🟢
+## 🏗️ Fase 1: Fundação e Setup (Semana 1) 🟢 ⏳
 *Objetivo: Configurar o ambiente e o núcleo de dados.*
 
-- [ ] **Setup Backend:** Criar projeto .NET Web API, configurar Entity Framework e SQL Server. ✅
-- [ ] **Modelagem:** Criar as entidades (Models) de Fornecedor, Oferta e Categoria. ✅
-- [ ] **Setup Frontend:** Criar projeto Angular, configurar roteamento e serviços básicos. ⏳
-- [ ] **Base de Dados:** Criar as migrations iniciais e popular a tabela de Categorias. ⏳
+- [✅] **Setup Backend:** Criar projeto .NET Web API, configurar Entity Framework e SQL Server. 
+- [✅] **Modelagem:** Criar as entidades (Models) de Fornecedor, Oferta e Categoria. 
+- [⏳] **Setup Frontend:** Criar projeto Angular, configurar roteamento e serviços básicos. 
+- [✅] **Base de Dados:** Criar as migrations iniciais e popular a tabela de Categorias. 
 
 ## 🏢 Fase 2: Área do Fornecedor - Perfil e Ofertas (Semana 2) 🚧
 *Objetivo: Permitir que o fornecedor coloque o seu serviço no sistema.*
